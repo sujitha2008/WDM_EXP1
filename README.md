@@ -58,7 +58,13 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+### Employee Data:
 
+<img width="1105" height="662" alt="image" src="https://github.com/user-attachments/assets/d333532d-3222-4ae6-80b2-750915b51634" />
+
+### Weather Data:
+
+<img width="1107" height="663" alt="image" src="https://github.com/user-attachments/assets/7e3594a5-dee6-4313-8a94-5c34702256b5" />
 
 ### PREPROCESSING
 ### Procedure:
@@ -79,6 +85,15 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+
+### Employee Data:
+
+<img width="938" height="557" alt="image" src="https://github.com/user-attachments/assets/1f2a1e85-fba9-4490-bb6f-b8682f27532d" />
+
+### Weather Data:
+
+<img width="952" height="566" alt="image" src="https://github.com/user-attachments/assets/dc05f1f4-b98a-4916-a5e5-2314adf46b42" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
